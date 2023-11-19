@@ -1,0 +1,14 @@
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/src/CMakeFiles/TemaPAOO.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/MyString/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/MyString/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/MyString/CMakeFiles/MyString.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/Book/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/Book/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/Book/CMakeFiles/Book.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/DVD/CMakeFiles/rebuild_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/DVD/CMakeFiles/edit_cache.dir
+/Users/bugamarco/Desktop/LFTC/TemaPAOO2/cmake-build-debug/DVD/CMakeFiles/DVD.dir
